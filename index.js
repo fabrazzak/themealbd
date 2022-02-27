@@ -30,7 +30,7 @@
 
                 <img src="${iteam.strMealThumb}" class="card-img-top" alt="iteam">
                 <div class="card-body">
-                     <h5 class="card-title"> ${iteam.strMeal}</h5>
+                     <h3 class="card-title"> ${iteam.strMeal}</h3>
                      <p class="card-text">${iteam.strInstructions.slice(0,250)}</p>
                 </div>
             </div>
