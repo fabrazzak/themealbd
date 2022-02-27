@@ -69,7 +69,7 @@
         <div  class=" card"">
         <img src="${data.meals[0].strMealThumb}" class="card-img-top" alt="iteam">
         <div class="card-body">
-        <a class="btn btn-outline-primary bg-primary text-light fs-4 fw-bold mx-auto text-center " type="button" id="watch-button" href="${data.meals[0].strYoutube} " target='_blank'>Watch Vedio</a>
+        <a class="btn btn-outline-primary bg-primary text-light fs-4 fw-bold mx-auto text-center " type="button" id="watch-button" href="${data.meals[0].strYoutube} " target='_blank'>Watch Video</a>
         
              <h3 class="card-title"> ${data.meals[0].strMeal}</h3>
              <p class="card-text">${data.meals[0].strInstructions}</p>
